@@ -9,7 +9,7 @@
 
 - 📫 聯絡 **tinazx056@gmail.com**
 
-- 📄 Know about my experiences [https://www.cakeresume.com/hazelwu](https://www.cakeresume.com/hazelwu)
+- 📄 我的更多經驗及履歷 [https://www.cakeresume.com/hazelwu](https://www.cakeresume.com/hazelwu)
 
 - ⚡ Fun fact **急性子，注重效率，善於分析事情本質 對事物保持好奇心，熱愛學習，常常面臨選擇：到底要先學哪個好 善於平行溝通，常與使用者、行政、設計師閒聊，過程中總是從他們身上發現需求、可以改善的地方**
 
