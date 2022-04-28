@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Hazel</h1>
 <h3 align="center">偶然接觸網頁，即開始對前端世界深深著迷，喜歡學習新鮮不同的領域及技術，更喜歡將腦中靈機一動的想法實現在介面上的開發者。</h3>
 
-- 🌱 最近正在學 **Solidity**
+- 🌱 最近正在學 **Solidity**, **Nodejs Express**
 
 - 📝 常在部落格出沒，寫下自己碰過的東西 [https://wualnz.com/](https://wualnz.com/)
 
