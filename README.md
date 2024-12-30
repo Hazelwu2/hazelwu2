@@ -3,7 +3,7 @@
 
 - 🌱 最近正在學 **Solidity**, **Nodejs Express**
 
-- 📝 常在部落格出沒，寫下自己碰過的東西 [https://wualnz.com/](https://wualnz.com/)
+- 📝 常在部落格出沒，寫下自己碰過的東西 [技術部落格]([https://wualnz.com/](https://22mm-docusaurus.vercel.app/))
 
 - 📫 聯絡 **tinazx056@gmail.com**
 
